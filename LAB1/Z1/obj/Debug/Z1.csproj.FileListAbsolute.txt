@@ -1,0 +1,7 @@
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\bin\Debug\Z1.exe.config
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\bin\Debug\Z1.exe
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\bin\Debug\Z1.pdb
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\obj\Debug\Z1.csprojResolveAssemblyReference.cache
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\obj\Debug\Z1.csproj.CoreCompileInputs.cache
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\obj\Debug\Z1.exe
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z1\obj\Debug\Z1.pdb

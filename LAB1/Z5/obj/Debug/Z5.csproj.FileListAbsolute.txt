@@ -1,0 +1,6 @@
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z5\bin\Debug\Z5.exe.config
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z5\bin\Debug\Z5.exe
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z5\bin\Debug\Z5.pdb
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z5\obj\Debug\Z5.csproj.CoreCompileInputs.cache
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z5\obj\Debug\Z5.exe
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z5\obj\Debug\Z5.pdb

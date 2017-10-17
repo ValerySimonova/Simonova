@@ -1,0 +1,6 @@
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z2\bin\Debug\Z2.exe.config
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z2\bin\Debug\Z2.exe
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z2\bin\Debug\Z2.pdb
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z2\obj\Debug\Z2.csproj.CoreCompileInputs.cache
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z2\obj\Debug\Z2.exe
+C:\Users\pro-6\Desktop\Simonova\LAB1\Z2\obj\Debug\Z2.pdb
