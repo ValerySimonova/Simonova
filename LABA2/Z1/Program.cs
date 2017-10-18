@@ -4,13 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Z6
+namespace Z1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0:F4}\n{1:F4}", Math.PI, Math.E);
+            double x;
+            x = Convert.ToDouble(Console.ReadLine());
+            double y;
+            y = x+7;
+            Console.WriteLine("{0:F4}",y);
         }
     }
 }

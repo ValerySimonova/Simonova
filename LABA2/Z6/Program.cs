@@ -10,7 +10,11 @@ namespace Z6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("{0:F4}\n{1:F4}", Math.PI, Math.E);
+            double aInGrad;
+            aInGrad = Convert.ToDouble(Console.ReadLine());
+            double aInRad;
+            aInRad = aInGrad*Math.PI/180;
+            Console.WriteLine("{0:F4}", aInRad);
         }
     }
 }
