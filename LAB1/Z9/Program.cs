@@ -13,7 +13,7 @@ namespace Z9
             double A;
             A = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("SELECT first_name, last_name, group\n" +
-                "FROM students WHERE student_id =" + "'"+A +"'");
+                "FROM students WHERE student_id ='{0}'",A);
         }
     }
 }
