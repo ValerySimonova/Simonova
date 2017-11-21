@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Z19
+namespace Z20
 {
     class Program
     {
@@ -13,7 +13,7 @@ namespace Z19
             double x, y;
             x = Convert.ToDouble(Console.ReadLine());
             y = Convert.ToDouble(Console.ReadLine());
-            if ((x <= -2) && (y >= 1))
+            if ((y<=1.5) && (y >= -2))
             {
                 Console.WriteLine("Точка с координатами (х,у) принадлежит области");
             }
